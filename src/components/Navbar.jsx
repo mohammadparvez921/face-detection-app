@@ -1,7 +1,7 @@
 const Navbar = () => {
     return (
         <div className="navbar">
-             <span>LamaSocial</span>
+             <span>Face detection app</span>
         </div>
     )
 }
